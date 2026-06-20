@@ -10,7 +10,6 @@ eos-settings-cosmic/
 │   │   ├── palette
 │   │   └── primary
 │   └── com.system76.CosmicTK/v1/
-│       ├── active_theme
 │       ├── apply_theme_global
 │       └── icon_theme
 ├── gtk-3.0/
